@@ -181,9 +181,8 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 ## 📬 Contact
 
 **Abdelrahman Ramadan**
-- Portfolio: [Your Portfolio Website]
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email Address]
+- LinkedIn: https://www.linkedin.com/in/abdelrahman-ramadan-748054177/
+- Email: ramadanabderahman@gmail.com
 
 ---
 
