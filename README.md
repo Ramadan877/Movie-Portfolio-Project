@@ -89,7 +89,7 @@ Movie-Portfolio-Project/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/movie-portfolio-project.git
+   git clone https://github.com/Ramadan877/Movie-Portfolio-Project.git
    cd movie-portfolio-project
    ```
 
